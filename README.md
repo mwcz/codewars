@@ -1,2 +1,3 @@
 # codewars
-My solutions to codewars challenges.
+
+This is an unrefined scratchpad of my solutions to codewars challenges.
